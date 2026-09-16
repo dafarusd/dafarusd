@@ -15,4 +15,4 @@ Local AI and private cloud hardware you own outright. Programming degree, self-t
 - [Mind Meld](https://github.com/dafarusd/mindmeld) — 20 questions against a genie whose voice was trained from scratch on a laptop. [Play it](https://mindmeld-017.pages.dev)
 - [monero-swap](https://github.com/dafarusd/monero-swap) — Monero for ETH on Base, contract-enforced. Not audited.
 
-X: [@Dafarusd](https://x.com/Dafarusd) · Steel Valley Burners: [Facebook](https://www.facebook.com/steelvalleyburners)
+X: [@Dafarusd](https://x.com/Dafarusd)
