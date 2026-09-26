@@ -9,10 +9,15 @@ Local AI and private cloud hardware you own outright. Programming degree, self-t
 
 **Hardware and sensing**
 - [Sentinel](https://github.com/dafarusd/sentinel-public) — passive RF and network sensing on a Raspberry Pi 5. Doesn't transmit.
-- [Keephaven](https://keephaven.co) — private cloud in a sealed box. Your photos stay at home.
+- [Keephaven](https://github.com/dafarusd/keephaven) — private cloud for the Raspberry Pi 5, now open source. Your photos stay at home. [Download](https://keephaven.co/download)
 
 **Other**
 - [Mind Meld](https://github.com/dafarusd/mindmeld) — 20 questions against a genie whose voice was trained from scratch on a laptop. [Play it](https://mindmeld-017.pages.dev)
 - [monero-swap](https://github.com/dafarusd/monero-swap) — Monero for ETH on Base, contract-enforced. Not audited.
 
 X: [@Dafarusd](https://x.com/Dafarusd)
+
+Donations help keep it going:
+- BTC `bc1qpyeupsjkrny259upq9jrg7d22h32ncrlknj3vw`
+- ETH `0x8ec99D65C23D39772Cc2425cfd1F7a3872af8636`
+- XMR `428vC4FYUs7Dm2aAAN2i2zY39z4sM5RDYBAPdyCxCS4ZUJ36KENQaP5AdjYpytvtkXZ15sB8ooAGGR1GehJjo5GUSPnHVAV`
